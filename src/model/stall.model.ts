@@ -1,0 +1,61 @@
+import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
+
+@Entity()
+export class Stall{
+    @PrimaryGeneratedColumn("uuid") 
+    id:string;
+    @Column()
+    stall_no:string;
+    @Column()
+    stall_type:string;
+    @Column()
+    number_of_bagdes:string;
+    @Column()
+    extra_badges:string;
+    @Column()
+    number_food_coupons:string;
+    @Column()
+    extra_food_coupons:string;
+    @Column({
+        type:'text'
+    })
+    stall_deliverables:string;
+    @Column({
+        default:0
+    })
+    table:Number;
+    @Column({
+        default:0
+    })
+    chair:Number;
+    @Column({
+        default:0
+    })
+    power_socket:Number;
+    @Column({
+        default:0
+    })
+    dustbin:Number;
+    @Column(
+        {
+            default:0
+        }
+    )
+    spotlight:Number;
+    @Column()
+    hall:string;
+    @Column({type:'float'})
+    height:Number;
+    @Column({type:'float'})
+    length:Number;
+    @Column({type:'float'})
+    width:Number;
+    @Column({type:'float'})
+    area:Number;
+    @Column({type:'float'})
+    price:Number;
+    @Column({type:'int'})
+    open_sides:Number;
+    @Column({type:'int'})
+    exhibitor_id:Number;
+}

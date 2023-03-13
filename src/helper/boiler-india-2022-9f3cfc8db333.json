@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "boiler-india-2022",
+  "private_key_id": "9f3cfc8db3334aa9c715ffe6dd27c393d5fdff6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTP3YVJnmcTH6h\n+iwiWtSbFETj6VqargkTlVybBTa4HUyWPrnTztUXXrTQkC/ZDvIS0LQU5K6M/ion\naFZJ0TnAaLIT8mrjzdS3znGlfHqEizB/whojeZn9pQlkepZNiwWk1UPdAUEqU+fV\nxW4qxDAJDyScZd72AWZwkXN90P7SNlDuy+jCX4F032ppbSwQXNUHSZnpUAbWhTVs\nHtlUjY2EsP8V/5shZneVb2qxBk6/Gdidpiw6MRqwh3oK9vlo/ga0HFSYl74sIdtN\ngUoOPHAifHzSWDXieAW4FWF2a6Bz6+DxsN+xREDvs/V32P3keOARNAQtb3YR+tt9\nqB+eWYVjAgMBAAECggEAEy/vCSn1RV8+G6o+B5TM1y62uL8n4QEwhw9u80M8kbaF\n9hn80ojPAN0Arim0Ht8yDGFzQ3gnhPWxw670MqcG7tU5/E1teTZN1uNKatrs9rL8\n+1QYma/gbvhmUcw/1wueJJ2cspGVmkM3ihdXoH/9uPG5XcQNX1AIC1UHjDfHNwKL\nm9Obhh0OE61j91ysCtVfn1DMqiyBGQvedsL6cvbehHd9c8iIC/V5uKf3xyA1fbuH\nEak2+Xqu8RgKMT34n1SaAGZs6YrUXxFICgvNfgDw7wqVKs0TCJkOxI5UvkB4t9RO\nlFZTv++VKQKAZMdgED68zgefTkHyshqU1QWG7FhsyQKBgQD6StKHekxAge5anOsM\nQeCuu5LznWm7ANgG4NJQ9FPgNz6N5+jqdyhPNaBq95UtYQbTTVMgUaqTECKL5oEU\nhk6vo/yBcA9zi/XkiCAMvfNRFgJEPrYC9BcAJ8I1PgfLG+Yd1RoxdciebW4S4oZ9\nlPKv2BWiWDwp1Ex1oTfCqdZPtwKBgQDYELPH0iKkTin5ewbVUJ8nh89I1gmcKgfc\nQ1AgqgCEljjgkEF67cz2HH25U9OxFIqG5IDzNcECTsBtTxKmUvByNWR76rnffhUj\n4RdkO/Exa/1bFfMpTaAsgE4X/aR/xiBfyDsxkAlWOXOtnPYn8K+2lc4Q7y67h90u\n2xK0wzQftQKBgQCZNPuxmhba1a3FIZBvLFQQIRlOrehuY5HYg/25OBWvhaFw06gq\n/U1bTwQm9e4GnQHEjex4OAUliBbdc/dHTP8VXFfQE3whymZ1wS19Hzi1RbeVdp2L\nKUZ6/dtPI+05UpaFZFBoPiTTdUCPpsGUVXxITwjPGxuYry8uQcUUD0nz+QKBgBh4\n89P7Mh9IFysBy0lYA17X3BuU2qvMeu1w1l+MwdhCp5iP3krNKnzpxze5je2ttO8I\nbK6fdQgM4XDAFw2tsTxOXd5HPNxajIxuz1Z0D6KYZ67scolIGI9RzQacnQg36azP\nohzAAr64bSjJ8XueoFhe6WMzpChrgBrxh1HgFkRNAoGAZK+r0I6ZwrJy0XkhEG4I\n6+BKfelQ7oyqZAR+qAaDriEui04AD8I6eWRh9RgwAkjEeBiZufUCb9GqfiBhxc7G\nzER7Aak10loETqJOFxuuQjwzN2LHtOemxrlYfuTxaVTgfIEcijI5xUfVMoC+jJrj\nVkpnkD4UXB3W0wMnTOdMFsU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "boiler-world-expo@boiler-india-2022.iam.gserviceaccount.com",
+  "client_id": "108448369640926618518",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/boiler-world-expo%40boiler-india-2022.iam.gserviceaccount.com"
+}

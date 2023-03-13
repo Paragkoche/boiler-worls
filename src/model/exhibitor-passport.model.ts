@@ -1,0 +1,53 @@
+import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
+
+@Entity()
+export class ExhibitorPassport{
+    @PrimaryGeneratedColumn()
+    id:string;
+    @Column()
+    exhibitor_id:string;
+    @Column()
+    prefix:string;
+    @Column()
+    first_name:string;
+    @Column()
+    middle_name:string;
+    @Column()
+    last_name:string;
+    @Column()
+    company:string;
+    @Column()
+    nationality:string;
+    @Column()
+    dob:string;
+    @Column()
+    address:string;
+    @Column()
+    city:string;
+    @Column()
+    state:string;
+    @Column()
+    pin_code:string;
+    @Column()
+    country:string;
+    @Column()
+    gender:string;
+    @Column()
+    passport_number:string;
+    @Column()
+    place_of_issue_of_passport_number:string;
+    @Column({type:'date'})
+    date_of_issue_of_passport:Date;
+    @Column({type:'date'})
+    date_of_expiry_of_passport:Date;
+    @Column()
+    embassy_address_email:string;
+    @Column()
+    job_title:string;
+    @Column()
+    email:string;
+    @Column()
+    mobile:string;
+    @Column()
+    passport_image:string;
+}
