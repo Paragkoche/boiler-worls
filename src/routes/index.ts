@@ -1,4 +1,6 @@
 import exhibitor from "./exhibitor"
+import user from "./user"
 export {
-    exhibitor
+    exhibitor,
+    user
 }

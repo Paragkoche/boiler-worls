@@ -12,7 +12,7 @@ export default new DataSource({
     // database:process.env.DB_NAME,
     // port:parseInt(process.env.DB_PORT || ''),
     logging:'all',
-    synchronize:true,
+    // synchronize:true,
     migrationsRun: true,
     entities:enstitys
 })

@@ -28,7 +28,8 @@ app.post("/api/upload", upload.single("file"), (req:Request, res:Response) => {
     })
   });
 app.use('/api/exhibitor',Routes.exhibitor)
-app.listen(8080,async()=>{
+app.use('/api/user',Routes.user)
+app.listen(80,async()=>{
     await db.initialize();
     console.log("http://localhost:8080")
 })
