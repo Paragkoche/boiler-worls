@@ -1,5 +1,5 @@
 import { NextFunction,Request,Response } from "express";
-import db from "../config/DB.confg"
+import db from "../db/db"
 import * as jwt from "jsonwebtoken";
 import { EntityMetadata, Repository } from "typeorm";
 import { Exhibitor } from "../model/exhibitor.model";
